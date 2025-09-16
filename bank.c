@@ -1,3 +1,8 @@
+// 2. Assume that ICDBI is a leading bank in India, which maintains the customer records in their database. The details are: Account number, Name, Balance in account. 
+// (a) The bank manager wants to find out the Account number and name of the customer whose balance is below rupees 5000. 
+// (b) Sort the customer data based on the balance amount.
+// Note: You program should use array of structures and functions to perform the operation.
+
 #include <stdio.h>
 #include <string.h>
 
