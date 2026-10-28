@@ -1,2 +1,2 @@
 # DSA-codes
-basic dsa shit
+basic dsa questions 
